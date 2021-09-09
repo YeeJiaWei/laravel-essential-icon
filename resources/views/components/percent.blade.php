@@ -1,0 +1,1 @@
+<x-blade-icon::divide {{ $attributes->merge(['class' => 'transform -rotate-45'])  }}/>

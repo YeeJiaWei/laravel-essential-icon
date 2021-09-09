@@ -1,0 +1,1 @@
+<svg {{ $attributes }} width="25" height="25" viewBox="0 0 25 25" stroke="currentColor"><path fill="none" d="M 0 2 C 0 2.554 0.446 3 1 3 L 21 3 C 21.554 3 22 2.554 22 2 L 22 1 C 22 0.446 21.554 0 21 0 L 1 0 C 0.446 0 0 0.446 0 1 Z" transform="translate(1 10.5)"/></svg>

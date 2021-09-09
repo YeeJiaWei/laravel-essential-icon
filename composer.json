@@ -1,0 +1,23 @@
+{
+    "name": "yeejiawei/laravel-essential-icon",
+    "type": "laravel-package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YeeJiaWei\\EssentialIcon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yee Jia Wei",
+            "email": "yeejiawei0811@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YeeJiaWei\\EssentialIcon\\EssentialIconServiceProvider"
+            ]
+        }
+    }
+}
